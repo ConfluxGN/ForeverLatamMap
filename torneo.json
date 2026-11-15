@@ -9,27 +9,18 @@
   ],
   "tramos": [
     {
-      "nombre": "Nivel 1-10",
+      "nombre": "Nivel 10-19",
       "jugadores": [],
-      "clases": {},
       "ganadores": {}
     },
     {
-      "nombre": "Nivel 11-20",
+      "nombre": "Nivel 20-29",
       "jugadores": [],
-      "clases": {},
       "ganadores": {}
     },
     {
-      "nombre": "Nivel 21-30",
+      "nombre": "Nivel 30-39",
       "jugadores": [],
-      "clases": {},
-      "ganadores": {}
-    },
-    {
-      "nombre": "Nivel 31-40",
-      "jugadores": [],
-      "clases": {},
       "ganadores": {}
     }
   ],
