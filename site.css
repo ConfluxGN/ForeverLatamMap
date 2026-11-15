@@ -447,11 +447,3 @@ button.bk-p:focus-visible { outline: 2px solid var(--bk-gold); outline-offset: -
 .bk-panel.is-busy .bk-grid, .bk-panel.is-busy .bk-edit-row, .bk-panel.is-busy .bk-vis { opacity: .55; pointer-events: none; transition: opacity .15s ease; }
 button.bk-p[aria-pressed="true"]:hover { background: var(--bk-card-hi); }
 @media (max-width: 560px) { .bk-head { flex-wrap: wrap; } .bk-tit { flex-basis: calc(100% - 44px); } .bk-tools { order: 3; flex-basis: 100%; justify-content: flex-start; } }
-
-/* accesos de colaboradores del torneo (admin) */
-.accesos-lista { list-style: none; margin: 8px 0 16px; padding: 0; display: grid; gap: 6px; }
-.accesos-lista li { display: flex; align-items: center; justify-content: space-between; gap: 10px; padding: 6px 10px; border: 1px solid var(--line); border-radius: 8px; }
-.accesos-lista li.hint { border: 0; padding: 0; }
-.signin h4 { margin: 14px 0 4px; }
-.accesos-nuevo { margin-top: 12px; }
-.accesos-datos { white-space: pre-wrap; user-select: text; -webkit-user-select: text; padding: 10px; border-radius: 8px; background: var(--surface-2, var(--surface)); font-size: 14px; }
