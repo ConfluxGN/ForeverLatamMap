@@ -2,32 +2,27 @@
   "visible": false,
   "titulo": "El llamado de los Condenados",
   "subtitulo": "Torneo PvP 1 vs 1 · Solo No Muertos",
-  "premios": [
-    "25 USD",
-    "15 USD",
-    "10 USD"
-  ],
   "tramos": [
     {
       "nombre": "Nivel 1-10",
+      "premio": "",
       "jugadores": [],
       "clases": {},
       "ganadores": {}
     },
     {
       "nombre": "Nivel 11-20",
+      "premio": "",
       "jugadores": [],
       "clases": {},
       "ganadores": {}
     },
     {
       "nombre": "Nivel 21-30",
+      "premio": "",
       "jugadores": [],
       "clases": {},
       "ganadores": {}
     }
-  ],
-  "final": {
-    "ganadores": {}
-  }
+  ]
 }
