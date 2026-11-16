@@ -372,7 +372,11 @@ body.preview .bk-open { top: calc(56px + env(safe-area-inset-top, 0px)); }
 
 /* llave: una columna por ronda */
 .bk-scroll { overflow-x: auto; padding: 2px 2px 8px; scrollbar-color: var(--bk-acc-soft) transparent; }
-.bk-grid { --gap: 30px; display: flex; gap: var(--gap); min-width: min-content; }
+.bk-grid { --gap: 30px; display: flex; gap: var(--gap); min-width: min-content; position: relative; }
+.bk-lines { position: absolute; left: 0; top: 0; pointer-events: none; overflow: visible; z-index: 0; }
+.bk-lines path { fill: none; stroke: var(--bk-acc-soft); stroke-width: 1.5; }
+.bk-lines path.is-on { stroke: var(--bk-acc); stroke-width: 2; }
+.bk-col { position: relative; z-index: 1; }
 .bk-col { display: flex; flex-direction: column; gap: 10px; width: 214px; flex: none; }
 .bk-h { font: 700 12px var(--font-display); letter-spacing: .1em; text-transform: uppercase; color: var(--bk-acc); text-align: center; text-shadow: 0 1px 3px #000; }
 .bk-list { flex: 1; display: flex; flex-direction: column; }
