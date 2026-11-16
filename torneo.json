@@ -73,12 +73,29 @@
           {
             "a": "Anub kaethun",
             "b": "MeowDruid",
-            "w": ""
+            "w": "MeowDruid"
           },
           {
             "a": "Nia",
             "b": "Onnanoko Kam",
             "w": "Onnanoko Kam"
+          }
+        ],
+        [
+          {
+            "a": "El men",
+            "b": "Rey Yolo",
+            "w": "Rey Yolo"
+          },
+          {
+            "a": "Sonrisas zoldyck",
+            "b": "MeowDruid",
+            "w": ""
+          },
+          {
+            "a": "Onnanoko Kam",
+            "b": "",
+            "w": ""
           }
         ]
       ]
