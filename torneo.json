@@ -54,7 +54,8 @@
         "Zippy Nordk",
         "Rey Yolo",
         "Luks Matts",
-        "sonrisas zoldyck"
+        "sonrisas zoldyck",
+        "MeowDruid"
       ],
       "clases": {},
       "rondas": [
@@ -81,6 +82,11 @@
           },
           {
             "a": "Gultrhak Doomcaller",
+            "b": "",
+            "w": ""
+          },
+          {
+            "a": "MeowDruid",
             "b": "Onnanoko Kam",
             "w": ""
           }
