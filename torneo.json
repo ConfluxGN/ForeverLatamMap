@@ -113,7 +113,8 @@
         "Luks Matts",
         "sonrisas zoldyck",
         "MeowDruid",
-        "Nia"
+        "Nia",
+        "Anub kaethun"
       ],
       "clases": {
         "subaru Valthor": "druid",
@@ -124,7 +125,8 @@
         "Luks Matts": "warrior",
         "sonrisas zoldyck": "rogue",
         "MeowDruid": "druid",
-        "Nia": "shaman"
+        "Nia": "shaman",
+        "Anub kaethun": "druid"
       },
       "rondas": [
         [
