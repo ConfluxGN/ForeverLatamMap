@@ -13,7 +13,12 @@
     {
       "nombre": "Nivel 11-20",
       "premio": "",
-      "jugadores": [],
+      "jugadores": [
+        "Dulce Gema",
+        "invisible Tw",
+        "Atom Eve",
+        "Hesliyol"
+      ],
       "clases": {},
       "ganadores": {}
     },
