@@ -8,7 +8,7 @@
       "premio": "",
       "jugadores": [],
       "clases": {},
-      "ganadores": {}
+      "rondas": []
     },
     {
       "nombre": "Nivel 11-20",
@@ -21,7 +21,25 @@
         "senta ronri"
       ],
       "clases": {},
-      "ganadores": {}
+      "rondas": [
+        [
+          {
+            "a": "Dulce Gema",
+            "b": "invisible Tw",
+            "w": "Dulce Gema"
+          },
+          {
+            "a": "Atom Eve",
+            "b": "Hesliyol",
+            "w": ""
+          },
+          {
+            "a": "senta ronri",
+            "b": "",
+            "w": ""
+          }
+        ]
+      ]
     },
     {
       "nombre": "Nivel 31-40",
@@ -35,7 +53,25 @@
         "Zippy Nordk"
       ],
       "clases": {},
-      "ganadores": {}
+      "rondas": [
+        [
+          {
+            "a": "Brianfilth",
+            "b": "El men",
+            "w": ""
+          },
+          {
+            "a": "Luks Matts",
+            "b": "Rey Yolo",
+            "w": ""
+          },
+          {
+            "a": "Doctor descuento",
+            "b": "Zippy Nordk",
+            "w": ""
+          }
+        ]
+      ]
     },
     {
       "nombre": "Nivel 21-30",
@@ -49,7 +85,25 @@
         "Vaquita Lechera"
       ],
       "clases": {},
-      "ganadores": {}
+      "rondas": [
+        [
+          {
+            "a": "Psychometal RX",
+            "b": "Sach Ismoso",
+            "w": ""
+          },
+          {
+            "a": "Plasmax Goat",
+            "b": "Sentan Ronri",
+            "w": ""
+          },
+          {
+            "a": "Little Boneskaiser",
+            "b": "Vaquita Lechera",
+            "w": ""
+          }
+        ]
+      ]
     }
   ]
 }
