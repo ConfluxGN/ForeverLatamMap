@@ -38,9 +38,14 @@
       "ganadores": {}
     },
     {
-      "nombre": "Tramo 4",
+      "nombre": "Nivel 31-40",
       "premio": "",
-      "jugadores": [],
+      "jugadores": [
+        "Brianfilth",
+        "El men",
+        "Luks Matts",
+        "Rey Yolo"
+      ],
       "clases": {},
       "ganadores": {}
     }
