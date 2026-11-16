@@ -25,22 +25,6 @@
       }
     },
     {
-      "nombre": "Nivel 21-30",
-      "premio": "",
-      "jugadores": [
-        "Plasmax Goat",
-        "Sach Ismoso",
-        "Little Boneskaiser",
-        "Vaquita Lechera",
-        "Psychometal RX",
-        "Sentan Ronri"
-      ],
-      "clases": {},
-      "ganadores": {
-        "r0m2": "Psychometal RX"
-      }
-    },
-    {
       "nombre": "Nivel 31-40",
       "premio": "",
       "jugadores": [
@@ -55,7 +39,14 @@
     {
       "nombre": "Tramo 5",
       "premio": "",
-      "jugadores": [],
+      "jugadores": [
+        "Psychometal RX",
+        "Sach Ismoso",
+        "Plasmax Goat",
+        "Sentan Ronri",
+        "Little Boneskaiser",
+        "Vaquita Lechera"
+      ],
       "clases": {},
       "ganadores": {}
     }
