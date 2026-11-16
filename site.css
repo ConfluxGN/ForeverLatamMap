@@ -392,6 +392,16 @@ body.preview .bk-open { top: calc(56px + env(safe-area-inset-top, 0px)); }
 .bk-btn.is-sm { padding: 4px 10px; font-size: 12.5px; }
 .bk-add { align-self: center; margin: 6px 0; border-style: dashed; }
 .bk-col.is-new .bk-h { color: var(--bk-muted); }
+/* podio tras la final */
+.bk-col.is-podio .bk-h { color: var(--bk-gold); }
+.bk-podio { border: 1px solid var(--bk-gold); border-radius: 8px; overflow: hidden; background: linear-gradient(180deg, rgba(224, 181, 83, .16), var(--bk-card)); box-shadow: 0 0 0 1px #0b0704, 0 6px 16px rgba(0, 0, 0, .5); }
+.bk-pos { display: flex; align-items: center; gap: 7px; height: 40px; padding: 0 10px 0 6px; font: 700 15px var(--font-body); color: var(--bk-fg); }
+.bk-pos + .bk-pos { border-top: 1px solid rgba(224, 181, 83, .18); }
+.bk-pos-n { flex: none; width: 30px; text-align: center; font: 700 13px var(--font-display); }
+.bk-pos.is-oro .bk-pos-n { color: var(--bk-gold); }
+.bk-pos.is-plata .bk-pos-n { color: var(--bk-silver); }
+.bk-pos.is-oro:not(.is-tbd) { background: var(--bk-card-hi); }
+.bk-pos.is-tbd .bk-n { color: var(--bk-muted); font-weight: 500; font-style: italic; }
 /* arrastrar participantes (solo admin) */
 .bk-p[data-nombre] { cursor: grab; touch-action: manipulation; }
 .bk-panel.is-dragging, .bk-panel.is-dragging * { cursor: grabbing !important; }
