@@ -4,13 +4,6 @@
   "subtitulo": "Torneo PvP 1 vs 1 · Solo No Muertos",
   "tramos": [
     {
-      "nombre": "Nivel 1-10",
-      "premio": "",
-      "jugadores": [],
-      "clases": {},
-      "rondas": []
-    },
-    {
       "nombre": "Nivel 11-20",
       "premio": "",
       "jugadores": [
@@ -79,13 +72,13 @@
           },
           {
             "a": "Anub kaethun",
-            "b": "",
+            "b": "MeowDruid",
             "w": ""
           },
           {
             "a": "Nia",
             "b": "Onnanoko Kam",
-            "w": ""
+            "w": "Onnanoko Kam"
           }
         ]
       ]
