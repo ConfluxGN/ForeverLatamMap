@@ -37,6 +37,57 @@
       ]
     },
     {
+      "nombre": "Nivel 21-30",
+      "premio": "",
+      "jugadores": [
+        "Psychometal RX",
+        "Sach Ismoso",
+        "Plasmax Goat",
+        "Sentan Ronri",
+        "Little Boneskaiser",
+        "Vaquita Lechera"
+      ],
+      "clases": {},
+      "rondas": [
+        [
+          {
+            "a": "Psychometal RX",
+            "b": "Sach Ismoso",
+            "w": "Psychometal RX"
+          },
+          {
+            "a": "Plasmax Goat",
+            "b": "Sentan Ronri",
+            "w": "Plasmax Goat"
+          },
+          {
+            "a": "Little Boneskaiser",
+            "b": "Vaquita Lechera",
+            "w": "Little Boneskaiser"
+          }
+        ],
+        [
+          {
+            "a": "Psychometal RX",
+            "b": "Plasmax Goat",
+            "w": "Plasmax Goat"
+          },
+          {
+            "a": "Little Boneskaiser",
+            "b": "",
+            "w": ""
+          }
+        ],
+        [
+          {
+            "a": "Plasmax Goat",
+            "b": "Little Boneskaiser",
+            "w": "Little Boneskaiser"
+          }
+        ]
+      ]
+    },
+    {
       "nombre": "Nivel 31-40",
       "premio": "",
       "jugadores": [
@@ -103,57 +154,6 @@
             "a": "Rey Yolo",
             "b": "MeowDruid",
             "w": "Rey Yolo"
-          }
-        ]
-      ]
-    },
-    {
-      "nombre": "Nivel 21-30",
-      "premio": "",
-      "jugadores": [
-        "Psychometal RX",
-        "Sach Ismoso",
-        "Plasmax Goat",
-        "Sentan Ronri",
-        "Little Boneskaiser",
-        "Vaquita Lechera"
-      ],
-      "clases": {},
-      "rondas": [
-        [
-          {
-            "a": "Psychometal RX",
-            "b": "Sach Ismoso",
-            "w": "Psychometal RX"
-          },
-          {
-            "a": "Plasmax Goat",
-            "b": "Sentan Ronri",
-            "w": "Plasmax Goat"
-          },
-          {
-            "a": "Little Boneskaiser",
-            "b": "Vaquita Lechera",
-            "w": "Little Boneskaiser"
-          }
-        ],
-        [
-          {
-            "a": "Psychometal RX",
-            "b": "Plasmax Goat",
-            "w": "Plasmax Goat"
-          },
-          {
-            "a": "Little Boneskaiser",
-            "b": "",
-            "w": ""
-          }
-        ],
-        [
-          {
-            "a": "Plasmax Goat",
-            "b": "Little Boneskaiser",
-            "w": "Little Boneskaiser"
           }
         ]
       ]
