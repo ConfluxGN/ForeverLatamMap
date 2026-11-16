@@ -390,6 +390,13 @@ body.preview .bk-open { top: calc(56px + env(safe-area-inset-top, 0px)); }
 .bk-m.is-editing { display: grid; gap: 6px; padding: 8px; border-color: var(--bk-acc); }
 .bk-m.is-editing input { border: 1px solid var(--bk-line); background: rgba(10, 6, 3, .7); color: var(--bk-fg); border-radius: 6px; padding: 6px 8px; font: 600 14px var(--font-body); width: 100%; box-sizing: border-box; }
 .bk-m.is-editing input:focus { outline: none; border-color: var(--bk-acc); }
+.bk-dline { display: flex; flex-wrap: wrap; align-items: center; gap: 6px; }
+.bk-dline + .bk-dline { margin-top: 4px; padding-top: 8px; border-top: 1px solid var(--bk-line); }
+.bk-dline input { flex: 1; min-width: 0; }
+.bk-dline .bk-ic { flex: none; }
+.bk-m.is-editing .bk-dsel { flex: 1 1 100%; width: 100%; border: 1px solid var(--bk-line); background: rgba(10, 6, 3, .7); color: var(--bk-fg); border-radius: 6px; padding: 6px 4px; font: 600 13px var(--font-body); }
+.bk-m.is-editing .bk-dsel:focus { outline: none; border-color: var(--bk-acc); }
+.bk-m.is-editing .bk-dsel option { background: #1d140d; color: var(--bk-fg); }
 .bk-m .err { color: #ef8a80; font-size: 12.5px; }
 .bk-m .err:empty { display: none; }
 .bk-m-row { display: flex; flex-wrap: wrap; gap: 6px; }
