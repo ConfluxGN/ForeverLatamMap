@@ -382,6 +382,8 @@ body.preview .bk-open { top: calc(56px + env(safe-area-inset-top, 0px)); }
 .bk-pair::after { content: ""; position: absolute; left: calc(100% + var(--gap) / 2); top: 25%; bottom: 25%; border-left: 1px solid var(--bk-line); }
 .bk-pair::before { content: ""; position: absolute; left: calc(100% + var(--gap) / 2); top: 50%; width: calc(var(--gap) / 2); border-top: 1px solid var(--bk-line); }
 
+/* ronda previa: un solo duelo real en el par (el otro pasó directo) o ninguno */
+.bk-pair.is-solo::after, .bk-pair.is-empty::after, .bk-pair.is-empty::before { display: none; }
 .bk-m { border: 1px solid var(--bk-line); border-radius: 6px; background: var(--bk-card); overflow: hidden; box-shadow: 0 4px 12px rgba(0, 0, 0, .45); }
 .bk-m.is-bye { border-style: dashed; opacity: .7; }
 .bk-p { all: unset; box-sizing: border-box; display: flex; align-items: center; gap: 7px; width: 100%; height: 34px; padding: 0 9px 0 6px; font: 700 14px var(--font-body); color: var(--bk-fg); }
