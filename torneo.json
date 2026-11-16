@@ -112,16 +112,19 @@
         "Rey Yolo",
         "Luks Matts",
         "sonrisas zoldyck",
-        "MeowDruid"
+        "MeowDruid",
+        "Nia"
       ],
       "clases": {
         "subaru Valthor": "druid",
         "El men": "paladin",
+        "Onnanoko Kam": "warlock",
         "Zippy Nordk": "warrior",
         "Rey Yolo": "paladin",
         "Luks Matts": "warrior",
         "sonrisas zoldyck": "rogue",
-        "MeowDruid": "druid"
+        "MeowDruid": "druid",
+        "Nia": "shaman"
       },
       "rondas": [
         [
