@@ -392,6 +392,12 @@ body.preview .bk-open { top: calc(56px + env(safe-area-inset-top, 0px)); }
 .bk-btn.is-sm { padding: 4px 10px; font-size: 12.5px; }
 .bk-add { align-self: center; margin: 6px 0; border-style: dashed; }
 .bk-col.is-new .bk-h { color: var(--bk-muted); }
+/* arrastrar participantes (solo admin) */
+.bk-p[data-nombre] { cursor: grab; touch-action: manipulation; }
+.bk-panel.is-dragging, .bk-panel.is-dragging * { cursor: grabbing !important; }
+.bk-p.is-drag { opacity: .35; }
+.bk-p.is-over, .bk-add.is-over { outline: 2px dashed var(--bk-gold); outline-offset: -2px; background: rgba(224, 181, 83, .16); }
+.bk-p.bk-ghost { position: fixed; left: 0; top: 0; z-index: 1000; pointer-events: none; border: 1px solid var(--bk-gold); border-radius: 6px; background: var(--bk-bg-a); box-shadow: 0 10px 24px rgba(0, 0, 0, .6); opacity: .95; }
 .bk-col.is-new .bk-list { justify-content: center; }
 .bk-p { all: unset; box-sizing: border-box; display: flex; align-items: center; gap: 7px; width: 100%; height: 34px; padding: 0 9px 0 6px; font: 700 14px var(--font-body); color: var(--bk-fg); }
 .bk-p + .bk-p { border-top: 1px solid rgba(224, 181, 83, .18); }
