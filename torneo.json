@@ -45,14 +45,16 @@
       "nombre": "Nivel 31-40",
       "premio": "",
       "jugadores": [
+        "Doctor descuento",
+        "Gultrhak Doomcaller",
+        "subaru Valthor",
         "Brianfilth",
         "El men",
-        "Luks Matts",
-        "Rey Yolo",
-        "Doctor descuento",
+        "Onnanoko Kam",
         "Zippy Nordk",
-        "sonrisas zoldyck",
-        "subaru Valthor"
+        "Rey Yolo",
+        "Luks Matts",
+        "sonrisas zoldyck"
       ],
       "clases": {},
       "rondas": [
@@ -75,6 +77,11 @@
           {
             "a": "sonrisas zoldyck",
             "b": "subaru Valthor",
+            "w": ""
+          },
+          {
+            "a": "Gultrhak Doomcaller",
+            "b": "Onnanoko Kam",
             "w": ""
           }
         ]
