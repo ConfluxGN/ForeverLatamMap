@@ -1,5 +1,5 @@
 {
-  "visible": false,
+  "visible": true,
   "titulo": "El llamado de los Condenados",
   "subtitulo": "Torneo PvP 1 vs 1 · Solo No Muertos",
   "tramos": [
@@ -32,11 +32,13 @@
             "a": "Atom Eve",
             "b": "Hesliyol",
             "w": ""
-          },
+          }
+        ],
+        [
           {
-            "a": "senta ronri",
-            "b": "",
-            "w": ""
+            "a": "Dulce Gema",
+            "b": "senta ronri",
+            "w": "senta ronri"
           }
         ]
       ]
