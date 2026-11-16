@@ -97,7 +97,7 @@
           {
             "a": "Psychometal RX",
             "b": "Sach Ismoso",
-            "w": ""
+            "w": "Psychometal RX"
           },
           {
             "a": "Plasmax Goat",
@@ -108,6 +108,18 @@
             "a": "Little Boneskaiser",
             "b": "Vaquita Lechera",
             "w": "Little Boneskaiser"
+          }
+        ],
+        [
+          {
+            "a": "Psychometal RX",
+            "b": "Plasmax Goat",
+            "w": ""
+          },
+          {
+            "a": "Little Boneskaiser",
+            "b": "",
+            "w": ""
           }
         ]
       ]
