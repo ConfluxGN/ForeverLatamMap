@@ -130,11 +130,13 @@
             "a": "Psychometal RX",
             "b": "Plasmax Goat",
             "w": "Plasmax Goat"
-          },
+          }
+        ],
+        [
           {
-            "a": "Little Boneskaiser",
-            "b": "",
-            "w": ""
+            "a": "Plasmax Goat",
+            "b": "Little Boneskaiser",
+            "w": "Little Boneskaiser"
           }
         ]
       ]
