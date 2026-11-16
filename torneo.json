@@ -25,7 +25,13 @@
     {
       "nombre": "Nivel 21-30",
       "premio": "",
-      "jugadores": [],
+      "jugadores": [
+        "Plasmax Goat",
+        "Sach Ismoso",
+        "Little Boneskaiser",
+        "Vaquita Lechera",
+        "Psychometal RX"
+      ],
       "clases": {},
       "ganadores": {}
     },
