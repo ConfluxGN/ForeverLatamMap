@@ -55,7 +55,9 @@
         "Psychometal RX": "paladin",
         "Sach Ismoso": "druid",
         "Plasmax Goat": "paladin",
-        "Sentan Ronri": "warrior"
+        "Sentan Ronri": "warrior",
+        "Little Boneskaiser": "paladin",
+        "Vaquita Lechera": "druid"
       },
       "rondas": [
         [
@@ -112,7 +114,14 @@
         "sonrisas zoldyck",
         "MeowDruid"
       ],
-      "clases": {},
+      "clases": {
+        "subaru Valthor": "druid",
+        "El men": "paladin",
+        "Zippy Nordk": "warrior",
+        "Rey Yolo": "paladin",
+        "Luks Matts": "warrior",
+        "sonrisas zoldyck": "rogue"
+      },
       "rondas": [
         [
           {
