@@ -51,7 +51,10 @@
         "Little Boneskaiser",
         "Vaquita Lechera"
       ],
-      "clases": {},
+      "clases": {
+        "Psychometal RX": "paladin",
+        "Sach Ismoso": "druid"
+      },
       "rondas": [
         [
           {
