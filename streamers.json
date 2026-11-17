@@ -1003,28 +1003,6 @@
   "tz": "America/Guayaquil"
  },
  {
-  "twitch": "zeodeon",
-  "name": "zeodeon",
-  "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/b3d3ba49-f919-4d92-bcca-d48bc987a475-profile_image-300x300.png",
-  "socials": {
-   "instagram": "https://www.instagram.com/zeodeon_",
-   "youtube": "https://www.youtube.com/@zeodeon_tv",
-   "tiktok": "https://www.tiktok.com/@zeodeon",
-   "x": "https://x.com/zeodeon"
-  },
-  "lat": -34.6502,
-  "lon": -58.453,
-  "country": "Argentina",
-  "country_code": "ARG",
-  "country_iso2": "AR",
-  "province": "Ciudad de Buenos Aires",
-  "province_id": "p1745",
-  "city": "",
-  "nationality": "AR",
-  "tz": "America/Argentina/Buenos_Aires",
-  "age": 33
- },
- {
   "twitch": "zippyt3d",
   "name": "Zippy",
   "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/9c3ba9cc-1292-43d2-b822-dc0f13ed598b-profile_image-300x300.png",
